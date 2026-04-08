@@ -4,7 +4,7 @@
 <!-- 上方：個人資料區 (純文字版)                        -->
 <!-- =================================================== -->
 <div style="border-bottom: 2px solid #f1c40f; padding-bottom: 20px; margin-bottom: 40px;">
-  <h1 style="margin: 0; font-size: 2.5em; color: #f1c40f;">SHENGLIN (聖霖)</h1>
+  <h1 style="margin: 0; font-size: 2.5em; color: #f1c40f;">SHENGLIN (Anthony)</h1>
   <p style="color: #cccccc; font-size: 1.1em; margin-top: 10px;">Graduate Student @ National Central University</p>
   
   <div style="display: flex; gap: 40px; margin-top: 20px; color: #f1c40f; font-size: 0.9em;">
@@ -22,7 +22,7 @@
 <!-- =================================================== -->
 <!-- 下方：研究進度/成果                              -->
 <!-- =================================================== -->
-<h2 style="color: #f1c40f; letter-spacing: 2px;">RESEARCH LOG</h2>
+<h2 style="color: #f1c40f; letter-spacing: 2px;">RESEARCH Progress</h2>
 <p style="color: #888; font-style: italic; margin-bottom: 25px;">Weekly progress on meteor radar data and thesis development.</p>
 
 <ul style="list-style-type: square; line-height: 2; font-size: 1.05em;">
