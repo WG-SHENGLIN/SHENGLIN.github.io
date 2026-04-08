@@ -13,7 +13,7 @@
       <p><b>🛰️ Research:</b> Meteor Radar Data Analysis</p>
     </div>
     <div>
-      <p><b>📧 Email:</b> [anthony1030131@gmail.com]</p>
+      <p><b>📧 Email:</b> anthony1030131@gmail.com </p>
       <p><b>💻 Tools:</b> MATLAB, Signal Processing</p>
     </div>
   </div>
