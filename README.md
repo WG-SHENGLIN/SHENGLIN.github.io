@@ -26,7 +26,7 @@
 <p style="color: #888; font-style: italic; margin-bottom: 25px;">Weekly progress on meteor radar data and thesis development.</p>
 
 <ul style="list-style-type: square; line-height: 2; font-size: 1.05em;">
-  <li><b>2026.04/08 </b> <a href="https://drive.google.com/file/d/1v05LtLrwr2hTkvDtkIqwnbQzSfhXqvdD/view?usp=sharing" style="color: #3498db; text-decoration: underline;"> MLT region Wind field </a> .</li>
+  <li><b>2026.04/08 </b> <a href="https://drive.google.com/file/d/1v05LtLrwr2hTkvDtkIqwnbQzSfhXqvdD/view?usp=sharing" style="color: #3498db; text-decoration: underline;"> MLT region Wind field </a> </li>
 </ul>
 
 <hr style="border: 0; border-top: 1px solid #333; margin-top: 60px;">
