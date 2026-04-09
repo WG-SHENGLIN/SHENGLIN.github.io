@@ -80,6 +80,16 @@
       <span style="color: #94a3b8; font-size: 0.95em;">— Signal to Noise ratio.</span>
     </div>
   </div>
+<!-- 2026.03.11  -->
+  <div style="background-color: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; margin-bottom: 15px;">
+    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 15px;">
+      <span style="background-color: #38bdf8; color: #0f172a; padding: 4px 12px; border-radius: 6px; font-weight: 800; font-size: 0.85em;">2026.03.11</span>
+      <a href="https://drive.google.com/file/d/1rjihZpAP_JBkgK8mJv76i7WdMtPRVkD6/view?usp=drive_link" target="_blank" style="color: #f1f5f9; text-decoration: none; font-size: 1.1em; font-weight: 600; border-bottom: 2px solid rgba(56, 189, 248, 0.3);">
+        Radar Interferometry
+      </a>
+      <span style="color: #94a3b8; font-size: 0.95em;">— Improve targeting.</span>
+    </div>
+  </div>
 
   </div>
 
