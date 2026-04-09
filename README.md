@@ -11,7 +11,7 @@
     </div>
     <div>
       <p style="margin: 10px 0;"><span style="color: #38bdf8; margin-right: 10px;">📧</span> <b>Email:</b> <a href="mailto:anthony1030131@gmail.com" style="color: #f1f5f9; text-decoration: none; border-bottom: 1px solid #38bdf8;">anthony1030131@gmail.com</a></p>
-      <p style="margin: 10px 0;"><span style="color: #38bdf8; margin-right: 10px;">💻</span> <b>Tools:</b> MATLAB, Signal Processing</p>
+      <p style="margin: 10px 0;"><span style="color: #38bdf8; margin-right: 10px;">💻</span> <b>Tools:</b> MATLAB, Signal Processing, Meteor Science</p>
     </div>
   </div>
 </div>
@@ -25,7 +25,7 @@
   <div style="background: linear-gradient(to right, #1e293b, #0f172a); border-radius: 12px; padding: 25px; border: 1px solid #38bdf8; position: relative; overflow: hidden;">
     <div style="display: flex; flex-direction: column; gap: 10px;">
       <span style="color: #38bdf8; font-weight: bold; font-size: 0.9em; letter-spacing: 1px;">AOGS 2026 / TGA 2025</span>
-      <h3 style="margin: 0; font-size: 1.3em; color: #f1f5f9;">[Poster] Analysis of Meteor Radar Signals at NCU</h3>
+      <h3 style="margin: 0; font-size: 1.3em; color: #f1f5f9;">[Poster] Identification and Localization of Meteor Targets Using Bistatic Meteor Radar</h3>
       <p style="color: #94a3b8; margin: 5px 0;">Taiwan Geosciences Assembly (TGA) 2025 Annual Meeting</p>
       
       <div style="margin-top: 15px; display: flex; gap: 15px;">
@@ -54,7 +54,17 @@
       <a href="https://drive.google.com/file/d/1v05LtLrwr2hTkvDtkIqwnbQzSfhXqvdD/view?usp=sharing" target="_blank" style="color: #f1f5f9; text-decoration: none; font-size: 1.1em; font-weight: 600; border-bottom: 2px solid rgba(56, 189, 248, 0.3);">
         MLT region Wind field
       </a>
-      <span style="color: #94a3b8; font-size: 0.95em;">— Bandpass filter implementation.</span>
+      <span style="color: #94a3b8; font-size: 0.95em;">— Bandpass filter.</span>
+    </div>
+  </div>
+
+  <div style="background-color: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; margin-bottom: 15px;">
+    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 15px;">
+      <span style="background-color: #38bdf8; color: #0f172a; padding: 4px 12px; border-radius: 6px; font-weight: 800; font-size: 0.85em;">2026.04.08</span>
+      <a href="https://drive.google.com/file/d/18Vb0mL7A6zjLOvJER5S8UXCELAjnJSgD/view?usp=sharing" target="_blank" style="color: #f1f5f9; text-decoration: none; font-size: 1.1em; font-weight: 600; border-bottom: 2px solid rgba(56, 189, 248, 0.3);">
+        Auto Correlation/ Auto Spectrum
+      </a>
+      <span style="color: #94a3b8; font-size: 0.95em;">— Signal to Noise ratio.</span>
     </div>
   </div>
 
