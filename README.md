@@ -32,6 +32,9 @@
         <a href="https://drive.google.com/file/d/1BXj83bN2PMkkbpCTb4KcnUdsXG1YfyQ-/view?usp=sharing" target="_blank" style="background-color: #38bdf8; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9em;">
           🖼️ View Poster (PDF)
         </a>
+        <a href="https://drive.google.com/file/d/1D9Hx3Cz8GltbEprQLEOJLX1-PTuIh44Q/view?usp=drive_link" target="_blank" style="border: 1px solid #334155; color: #f1f5f9; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9em; transition: 0.3s;">
+          📄 View Abstract
+        </a>
       </div>
     </div>
     <span style="position: absolute; right: -10px; bottom: -10px; font-size: 80px; opacity: 0.05; color: #38bdf8; transform: rotate(-15deg);">🛰️</span>
