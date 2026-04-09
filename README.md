@@ -20,6 +20,27 @@
   </div>
 </div>
 
+<div style="padding: 0 10px; margin-bottom: 50px;">
+  <h2 style="color: #38bdf8; font-size: 1.8em; display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
+    <span style="background-color: #38bdf8; width: 4px; height: 28px; display: inline-block; border-radius: 2px;"></span>
+    CONFERENCES & POSTERS
+  </h2>
+
+  <div style="background: linear-gradient(to right, #1e293b, #0f172a); border-radius: 12px; padding: 25px; border: 1px solid #38bdf8; position: relative; overflow: hidden;">
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <span style="color: #38bdf8; font-weight: bold; font-size: 0.9em; letter-spacing: 1px;">AOGS 2026</span>
+      <h3 style="margin: 0; font-size: 1.3em; color: #f1f5f9;">[Poster] Analysis of Meteor Radar Signals at NCU</h3>
+      <p style="color: #94a3b8; margin: 5px 0;">Asia Oceania Geosciences Society (AOGS) Annual Meeting</p>
+      
+      <div style="margin-top: 15px; display: flex; gap: 15px;">
+        <a href="https://drive.google.com/file/d/1BXj83bN2PMkkbpCTb4KcnUdsXG1YfyQ-/view?usp=sharing" target="_blank" style="background-color: #38bdf8; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9em;">
+          🖼️ View Poster (PDF)
+        </a>
+      </div>
+    </div>
+    <span style="position: absolute; right: -10px; bottom: -10px; font-size: 80px; opacity: 0.05; color: #38bdf8; transform: rotate(-15deg);">🛰️</span>
+  </div>
+</div>
 <!-- =================================================== -->
 <!-- 下方：研究進度/成果 (Research Timeline)           -->
 <!-- =================================================== -->
