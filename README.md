@@ -24,7 +24,7 @@
 
   <div style="background: linear-gradient(to right, #1e293b, #0f172a); border-radius: 12px; padding: 25px; border: 1px solid #38bdf8; position: relative; overflow: hidden;">
     <div style="display: flex; flex-direction: column; gap: 10px;">
-      <span style="color: #38bdf8; font-weight: bold; font-size: 0.9em; letter-spacing: 1px;">TGA 2025</span>
+      <span style="color: #38bdf8; font-weight: bold; font-size: 0.9em; letter-spacing: 1px;">AOGS 2026 / TGA 2025</span>
       <h3 style="margin: 0; font-size: 1.3em; color: #f1f5f9;">[Poster] Analysis of Meteor Radar Signals at NCU</h3>
       <p style="color: #94a3b8; margin: 5px 0;">Taiwan Geosciences Assembly (TGA) 2025 Annual Meeting</p>
       
