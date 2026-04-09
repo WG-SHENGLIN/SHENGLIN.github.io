@@ -47,7 +47,7 @@
   <p style="color: #64748b; font-style: italic; margin-bottom: 25px; padding-left: 20px;">
     Weekly tracking of radar signal processing and thesis development.
   </p>
-
+<!-- 2026.04.08  -->
   <div style="background-color: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; margin-bottom: 15px;">
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 15px;">
       <span style="background-color: #38bdf8; color: #0f172a; padding: 4px 12px; border-radius: 6px; font-weight: 800; font-size: 0.85em;">2026.04.08</span>
@@ -57,11 +57,21 @@
       <span style="color: #94a3b8; font-size: 0.95em;">— Bandpass filter.</span>
     </div>
   </div>
-
+<!-- 2026.04.01  -->
   <div style="background-color: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; margin-bottom: 15px;">
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 15px;">
       <span style="background-color: #38bdf8; color: #0f172a; padding: 4px 12px; border-radius: 6px; font-weight: 800; font-size: 0.85em;">2026.04.01</span>
       <a href="https://drive.google.com/file/d/18Vb0mL7A6zjLOvJER5S8UXCELAjnJSgD/view?usp=sharing" target="_blank" style="color: #f1f5f9; text-decoration: none; font-size: 1.1em; font-weight: 600; border-bottom: 2px solid rgba(56, 189, 248, 0.3);">
+        Auto Correlation/ Auto Spectrum
+      </a>
+      <span style="color: #94a3b8; font-size: 0.95em;">— Signal to Noise ratio revise.</span>
+    </div>
+  </div>  
+<!-- 2026.03.18  -->
+  <div style="background-color: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; margin-bottom: 15px;">
+    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 15px;">
+      <span style="background-color: #38bdf8; color: #0f172a; padding: 4px 12px; border-radius: 6px; font-weight: 800; font-size: 0.85em;">2026.03.18</span>
+      <a href="https://drive.google.com/file/d/1rpAWJLVNGD9ybycLxUkM5GMttUAisIrf/view?usp=sharing" target="_blank" style="color: #f1f5f9; text-decoration: none; font-size: 1.1em; font-weight: 600; border-bottom: 2px solid rgba(56, 189, 248, 0.3);">
         Auto Correlation/ Auto Spectrum
       </a>
       <span style="color: #94a3b8; font-size: 0.95em;">— Signal to Noise ratio.</span>
