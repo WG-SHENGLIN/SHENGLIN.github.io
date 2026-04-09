@@ -64,13 +64,6 @@
   </div>
   </div>
 
-<hr style="border: 0; border-top: 1px solid #1e293b; margin-top: 80px; margin-bottom: 30px;">
-<footer style="font-size: 0.85em; color: #475569; text-align: center; padding-bottom: 20px;">
-  © 2026 SHENGLIN | NCU Space Science | Built with GitHub Pages
-</footer>
-
-</div>
-
 <div style="padding: 0 10px;">
   <h2 style="color: #38bdf8; font-size: 1.8em; display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
     <span style="background-color: #38bdf8; width: 4px; height: 28px; display: inline-block; border-radius: 2px;"></span>
